@@ -4,19 +4,19 @@ Intelligent Candidate Discovery & Ranking System
 
 ## Architecture
 
-BM25 Retrieval
+- BM25 Retrieval
 ↓
-Dense Embeddings (BGE)
+- Dense Embeddings (BGE)
 ↓
-Cross Encoder Re-ranking
+- Cross Encoder Re-ranking
 ↓
-Feature Engineering
+- Feature Engineering
 ↓
-Behavioral Scoring
+- Behavioral Scoring
 ↓
-Honeypot Detection
+- Honeypot Detection
 ↓
-Final Ranking
+- Final Ranking
 
 ## Team
 
