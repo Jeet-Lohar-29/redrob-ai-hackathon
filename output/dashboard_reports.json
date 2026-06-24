@@ -1,0 +1,2251 @@
+[
+    {
+        "candidate_id": "CAND_0018499",
+        "match_percentage": 91,
+        "hiring_recommendation": "Strong Hire",
+        "confidence_level": "Very High",
+        "technical_fit": 99,
+        "behavioral_fit": 70,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "7.2 years experience aligns with ideal band.",
+            "Experience in product company (Zomato).",
+            "Good recruiter engagement.",
+            "Short notice period.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Senior Machine Learning Engineer with 7.2 years experience from Zomato. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0061265",
+        "match_percentage": 87,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 96,
+        "behavioral_fit": 76,
+        "availability_fit": 80,
+        "risk_score": 20,
+        "strengths": [
+            "6.6 years experience aligns with ideal band.",
+            "Experience in product company (Zoho).",
+            "Excellent recruiter response rate.",
+            "Strong GitHub activity."
+        ],
+        "risks": [
+            "Long notice period."
+        ],
+        "executive_summary": "Recommendation Systems Engineer with 6.6 years experience from Zoho. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0039838",
+        "match_percentage": 81,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 77,
+        "behavioral_fit": 88,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "Experience in product company (Amazon).",
+            "Excellent recruiter response rate."
+        ],
+        "risks": [],
+        "executive_summary": "Recommendation Systems Engineer with 4.9 years experience from Amazon. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "Problem Solving",
+            "Technical Depth"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0026532",
+        "match_percentage": 73,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 76,
+        "behavioral_fit": 62,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "Experience in product company (Zomato).",
+            "Good recruiter engagement."
+        ],
+        "risks": [],
+        "executive_summary": "Recommendation Systems Engineer with 4.8 years experience from Zomato. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "Problem Solving",
+            "Technical Depth"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0077337",
+        "match_percentage": 90,
+        "hiring_recommendation": "Strong Hire",
+        "confidence_level": "Very High",
+        "technical_fit": 94,
+        "behavioral_fit": 84,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "7.0 years experience aligns with ideal band.",
+            "Experience in product company (Paytm).",
+            "Excellent recruiter response rate.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Staff Machine Learning Engineer with 7.0 years experience from Paytm. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0049896",
+        "match_percentage": 73,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 80,
+        "behavioral_fit": 56,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "7.3 years experience aligns with ideal band.",
+            "Good recruiter engagement."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "Search Engineer with 7.3 years experience from Unacademy. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0011162",
+        "match_percentage": 81,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 87,
+        "behavioral_fit": 70,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "5.8 years experience aligns with ideal band.",
+            "Excellent recruiter response rate."
+        ],
+        "risks": [],
+        "executive_summary": "Recommendation Systems Engineer with 5.8 years experience from upGrad. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0088025",
+        "match_percentage": 90,
+        "hiring_recommendation": "Strong Hire",
+        "confidence_level": "Very High",
+        "technical_fit": 95,
+        "behavioral_fit": 89,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "8.6 years experience aligns with ideal band.",
+            "Experience in product company (Yellow.ai).",
+            "Excellent recruiter response rate.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Staff Machine Learning Engineer with 8.6 years experience from Yellow.ai. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0029367",
+        "match_percentage": 80,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 88,
+        "behavioral_fit": 68,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "5.7 years experience aligns with ideal band.",
+            "Excellent recruiter response rate."
+        ],
+        "risks": [],
+        "executive_summary": "Senior Data Scientist with 5.7 years experience from Rephrase.ai. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0036184",
+        "match_percentage": 87,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 89,
+        "behavioral_fit": 76,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "6.0 years experience aligns with ideal band.",
+            "Experience in product company (CRED).",
+            "Excellent recruiter response rate.",
+            "Short notice period."
+        ],
+        "risks": [],
+        "executive_summary": "Recommendation Systems Engineer with 6.0 years experience from CRED. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0079064",
+        "match_percentage": 86,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 85,
+        "behavioral_fit": 92,
+        "availability_fit": 80,
+        "risk_score": 20,
+        "strengths": [
+            "5.2 years experience aligns with ideal band.",
+            "Excellent recruiter response rate."
+        ],
+        "risks": [
+            "Long notice period."
+        ],
+        "executive_summary": "Senior Data Scientist with 5.2 years experience from Niramai. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0058575",
+        "match_percentage": 80,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 87,
+        "behavioral_fit": 68,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "5.8 years experience aligns with ideal band.",
+            "Good recruiter engagement."
+        ],
+        "risks": [],
+        "executive_summary": "AI Engineer with 5.8 years experience from Krutrim. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0030031",
+        "match_percentage": 87,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 86,
+        "behavioral_fit": 88,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "5.7 years experience aligns with ideal band.",
+            "Excellent recruiter response rate.",
+            "Short notice period."
+        ],
+        "risks": [],
+        "executive_summary": "AI Engineer with 5.7 years experience from Microsoft. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0062247",
+        "match_percentage": 90,
+        "hiring_recommendation": "Strong Hire",
+        "confidence_level": "Very High",
+        "technical_fit": 91,
+        "behavioral_fit": 81,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "7.3 years experience aligns with ideal band.",
+            "Experience in product company (Google).",
+            "Excellent recruiter response rate.",
+            "Short notice period.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "AI Engineer with 7.3 years experience from Google. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0052328",
+        "match_percentage": 94,
+        "hiring_recommendation": "Strong Hire",
+        "confidence_level": "Very High",
+        "technical_fit": 96,
+        "behavioral_fit": 87,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "6.5 years experience aligns with ideal band.",
+            "Experience in product company (Amazon).",
+            "Excellent recruiter response rate.",
+            "Short notice period.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Recommendation Systems Engineer with 6.5 years experience from Amazon. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0002025",
+        "match_percentage": 94,
+        "hiring_recommendation": "Strong Hire",
+        "confidence_level": "Very High",
+        "technical_fit": 99,
+        "behavioral_fit": 80,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "5.9 years experience aligns with ideal band.",
+            "Experience in product company (Apple).",
+            "Excellent recruiter response rate.",
+            "Short notice period.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Senior AI Engineer with 5.9 years experience from Apple. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0036437",
+        "match_percentage": 83,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 77,
+        "behavioral_fit": 88,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "Excellent recruiter response rate.",
+            "Short notice period."
+        ],
+        "risks": [],
+        "executive_summary": "Search Engineer with 4.8 years experience from Rephrase.ai. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "Problem Solving",
+            "Technical Depth"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0081852",
+        "match_percentage": 85,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 98,
+        "behavioral_fit": 60,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "5.9 years experience aligns with ideal band.",
+            "Good recruiter engagement.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Senior Data Scientist with 5.9 years experience from Mad Street Den. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0033861",
+        "match_percentage": 76,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 87,
+        "behavioral_fit": 50,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "8.0 years experience aligns with ideal band.",
+            "Short notice period."
+        ],
+        "risks": [],
+        "executive_summary": "Senior NLP Engineer with 8.0 years experience from Mad Street Den. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0037000",
+        "match_percentage": 78,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 83,
+        "behavioral_fit": 62,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "Good recruiter engagement.",
+            "Short notice period.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Search Engineer with 2.7 years experience from Unacademy. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0092278",
+        "match_percentage": 67,
+        "hiring_recommendation": "Low Priority",
+        "confidence_level": "Low",
+        "technical_fit": 80,
+        "behavioral_fit": 42,
+        "availability_fit": 70,
+        "risk_score": 0,
+        "strengths": [
+            "6.8 years experience aligns with ideal band."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "Senior NLP Engineer with 6.8 years experience from Microsoft. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0044855",
+        "match_percentage": 83,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 89,
+        "behavioral_fit": 74,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "6.6 years experience aligns with ideal band.",
+            "Experience in product company (Flipkart).",
+            "Good recruiter engagement."
+        ],
+        "risks": [],
+        "executive_summary": "Senior Data Scientist with 6.6 years experience from Flipkart. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0055992",
+        "match_percentage": 84,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 83,
+        "behavioral_fit": 82,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "Experience in product company (CRED).",
+            "Excellent recruiter response rate.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "AI Engineer with 16.9 years experience from CRED. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0089552",
+        "match_percentage": 74,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 88,
+        "behavioral_fit": 52,
+        "availability_fit": 70,
+        "risk_score": 20,
+        "strengths": [
+            "6.0 years experience aligns with ideal band.",
+            "Experience in product company (Netflix).",
+            "Good recruiter engagement."
+        ],
+        "risks": [
+            "Long notice period."
+        ],
+        "executive_summary": "Machine Learning Engineer with 6.0 years experience from Netflix. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0060072",
+        "match_percentage": 79,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 96,
+        "behavioral_fit": 54,
+        "availability_fit": 70,
+        "risk_score": 0,
+        "strengths": [
+            "5.7 years experience aligns with ideal band.",
+            "Experience in product company (Amazon).",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Staff Machine Learning Engineer with 5.7 years experience from Amazon. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0018722",
+        "match_percentage": 91,
+        "hiring_recommendation": "Strong Hire",
+        "confidence_level": "Very High",
+        "technical_fit": 99,
+        "behavioral_fit": 85,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "6.6 years experience aligns with ideal band.",
+            "Excellent recruiter response rate.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Recommendation Systems Engineer with 6.6 years experience from Saarthi.ai. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0071974",
+        "match_percentage": 90,
+        "hiring_recommendation": "Strong Hire",
+        "confidence_level": "Very High",
+        "technical_fit": 97,
+        "behavioral_fit": 80,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "7.8 years experience aligns with ideal band.",
+            "Experience in product company (Netflix).",
+            "Excellent recruiter response rate.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Senior AI Engineer with 7.8 years experience from Netflix. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0055905",
+        "match_percentage": 83,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 80,
+        "behavioral_fit": 77,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "8.1 years experience aligns with ideal band.",
+            "Experience in product company (Flipkart).",
+            "Excellent recruiter response rate.",
+            "Short notice period."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "Senior Machine Learning Engineer with 8.1 years experience from Flipkart. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0093547",
+        "match_percentage": 83,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 82,
+        "behavioral_fit": 86,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "Excellent recruiter response rate.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Senior Machine Learning Engineer with 2.9 years experience from PhonePe. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0075439",
+        "match_percentage": 80,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 83,
+        "behavioral_fit": 70,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "Experience in product company (Flipkart).",
+            "Good recruiter engagement.",
+            "Short notice period.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Machine Learning Engineer with 4.3 years experience from Flipkart. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0083307",
+        "match_percentage": 86,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 94,
+        "behavioral_fit": 76,
+        "availability_fit": 80,
+        "risk_score": 20,
+        "strengths": [
+            "7.8 years experience aligns with ideal band.",
+            "Experience in product company (CRED).",
+            "Good recruiter engagement.",
+            "Strong GitHub activity."
+        ],
+        "risks": [
+            "Long notice period."
+        ],
+        "executive_summary": "Search Engineer with 7.8 years experience from CRED. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0041568",
+        "match_percentage": 76,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 80,
+        "behavioral_fit": 66,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "5.2 years experience aligns with ideal band.",
+            "Good recruiter engagement."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "Search Engineer with 5.2 years experience from Haptik. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0057701",
+        "match_percentage": 75,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 83,
+        "behavioral_fit": 58,
+        "availability_fit": 80,
+        "risk_score": 20,
+        "strengths": [
+            "Good recruiter engagement.",
+            "Strong GitHub activity."
+        ],
+        "risks": [
+            "Long notice period."
+        ],
+        "executive_summary": "Recommendation Systems Engineer with 4.1 years experience from Verloop.io. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0007411",
+        "match_percentage": 81,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 98,
+        "behavioral_fit": 46,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "8.0 years experience aligns with ideal band.",
+            "Experience in product company (Amazon).",
+            "Short notice period.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Senior Machine Learning Engineer with 8.0 years experience from Amazon. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0015578",
+        "match_percentage": 79,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 86,
+        "behavioral_fit": 68,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "5.4 years experience aligns with ideal band.",
+            "Experience in product company (Zoho).",
+            "Good recruiter engagement."
+        ],
+        "risks": [],
+        "executive_summary": "AI Engineer with 5.4 years experience from Zoho. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0053695",
+        "match_percentage": 84,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 94,
+        "behavioral_fit": 58,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "5.8 years experience aligns with ideal band.",
+            "Experience in product company (Meesho).",
+            "Good recruiter engagement.",
+            "Short notice period.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Recommendation Systems Engineer with 5.8 years experience from Meesho. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0064326",
+        "match_percentage": 92,
+        "hiring_recommendation": "Strong Hire",
+        "confidence_level": "Very High",
+        "technical_fit": 92,
+        "behavioral_fit": 92,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "7.6 years experience aligns with ideal band.",
+            "Experience in product company (Sarvam AI).",
+            "Excellent recruiter response rate.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Search Engineer with 7.6 years experience from Sarvam AI. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0013536",
+        "match_percentage": 81,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 80,
+        "behavioral_fit": 82,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "Excellent recruiter response rate.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Applied ML Engineer with 14.1 years experience from Haptik. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0028793",
+        "match_percentage": 83,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 97,
+        "behavioral_fit": 64,
+        "availability_fit": 80,
+        "risk_score": 20,
+        "strengths": [
+            "7.2 years experience aligns with ideal band.",
+            "Experience in product company (Google).",
+            "Good recruiter engagement.",
+            "Strong GitHub activity."
+        ],
+        "risks": [
+            "Long notice period."
+        ],
+        "executive_summary": "Search Engineer with 7.2 years experience from Google. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0070398",
+        "match_percentage": 81,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 93,
+        "behavioral_fit": 62,
+        "availability_fit": 80,
+        "risk_score": 20,
+        "strengths": [
+            "7.2 years experience aligns with ideal band.",
+            "Good recruiter engagement.",
+            "Strong GitHub activity."
+        ],
+        "risks": [
+            "Long notice period."
+        ],
+        "executive_summary": "Machine Learning Engineer with 7.2 years experience from Genpact AI. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0003977",
+        "match_percentage": 74,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 82,
+        "behavioral_fit": 56,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "Experience in product company (Google).",
+            "Good recruiter engagement.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Recommendation Systems Engineer with 4.6 years experience from Google. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0000031",
+        "match_percentage": 84,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 87,
+        "behavioral_fit": 76,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "6.0 years experience aligns with ideal band.",
+            "Excellent recruiter response rate."
+        ],
+        "risks": [],
+        "executive_summary": "Recommendation Systems Engineer with 6.0 years experience from Swiggy. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0092245",
+        "match_percentage": 69,
+        "hiring_recommendation": "Low Priority",
+        "confidence_level": "Low",
+        "technical_fit": 70,
+        "behavioral_fit": 54,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "Good recruiter engagement."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "Senior Data Scientist with 4.1 years experience from Ola. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "Problem Solving",
+            "Technical Depth"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0007009",
+        "match_percentage": 89,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 94,
+        "behavioral_fit": 74,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "7.9 years experience aligns with ideal band.",
+            "Good recruiter engagement.",
+            "Short notice period.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Recommendation Systems Engineer with 7.9 years experience from Wysa. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0001610",
+        "match_percentage": 74,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 78,
+        "behavioral_fit": 64,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "Good recruiter engagement."
+        ],
+        "risks": [],
+        "executive_summary": "Machine Learning Engineer with 3.0 years experience from Dream11. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "Problem Solving",
+            "Technical Depth"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0066999",
+        "match_percentage": 88,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 99,
+        "behavioral_fit": 62,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "5.9 years experience aligns with ideal band.",
+            "Good recruiter engagement.",
+            "Short notice period.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Recommendation Systems Engineer with 5.9 years experience from Microsoft. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0040887",
+        "match_percentage": 83,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 77,
+        "behavioral_fit": 82,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "Experience in product company (Netflix).",
+            "Excellent recruiter response rate.",
+            "Short notice period."
+        ],
+        "risks": [],
+        "executive_summary": "Machine Learning Engineer with 4.7 years experience from Netflix. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "Problem Solving",
+            "Technical Depth"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0077285",
+        "match_percentage": 84,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 95,
+        "behavioral_fit": 62,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "5.5 years experience aligns with ideal band.",
+            "Good recruiter engagement.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Recommendation Systems Engineer with 5.5 years experience from Nykaa. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0093912",
+        "match_percentage": 92,
+        "hiring_recommendation": "Strong Hire",
+        "confidence_level": "Very High",
+        "technical_fit": 96,
+        "behavioral_fit": 81,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "5.3 years experience aligns with ideal band.",
+            "Experience in product company (Razorpay).",
+            "Good recruiter engagement.",
+            "Short notice period.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Senior Data Scientist with 5.3 years experience from Razorpay. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0005649",
+        "match_percentage": 86,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 96,
+        "behavioral_fit": 72,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "7.4 years experience aligns with ideal band.",
+            "Experience in product company (Sarvam AI).",
+            "Good recruiter engagement.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Senior Data Scientist with 7.4 years experience from Sarvam AI. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0075574",
+        "match_percentage": 85,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 88,
+        "behavioral_fit": 77,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "5.7 years experience aligns with ideal band.",
+            "Good recruiter engagement."
+        ],
+        "risks": [],
+        "executive_summary": "Machine Learning Engineer with 5.7 years experience from Haptik. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0054394",
+        "match_percentage": 83,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 76,
+        "behavioral_fit": 82,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "Good recruiter engagement.",
+            "Short notice period."
+        ],
+        "risks": [],
+        "executive_summary": "Recommendation Systems Engineer with 4.1 years experience from PharmEasy. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "Problem Solving",
+            "Technical Depth"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0078492",
+        "match_percentage": 87,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 87,
+        "behavioral_fit": 80,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "5.1 years experience aligns with ideal band.",
+            "Good recruiter engagement.",
+            "Short notice period."
+        ],
+        "risks": [],
+        "executive_summary": "Recommendation Systems Engineer with 5.1 years experience from Verloop.io. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0053591",
+        "match_percentage": 92,
+        "hiring_recommendation": "Strong Hire",
+        "confidence_level": "Very High",
+        "technical_fit": 95,
+        "behavioral_fit": 89,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "5.3 years experience aligns with ideal band.",
+            "Excellent recruiter response rate.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "AI Engineer with 5.3 years experience from Ola. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0061339",
+        "match_percentage": 83,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 87,
+        "behavioral_fit": 78,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "Excellent recruiter response rate.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Search Engineer with 4.2 years experience from Rephrase.ai. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0030348",
+        "match_percentage": 75,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 70,
+        "behavioral_fit": 74,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "Good recruiter engagement."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "Machine Learning Engineer with 4.5 years experience from BYJU'S. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "Problem Solving",
+            "Technical Depth"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0044883",
+        "match_percentage": 85,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 94,
+        "behavioral_fit": 80,
+        "availability_fit": 70,
+        "risk_score": 0,
+        "strengths": [
+            "6.3 years experience aligns with ideal band.",
+            "Excellent recruiter response rate.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "AI Engineer with 6.3 years experience from Mad Street Den. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0074225",
+        "match_percentage": 82,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 81,
+        "behavioral_fit": 86,
+        "availability_fit": 80,
+        "risk_score": 20,
+        "strengths": [
+            "Excellent recruiter response rate.",
+            "Strong GitHub activity."
+        ],
+        "risks": [
+            "Long notice period."
+        ],
+        "executive_summary": "Machine Learning Engineer with 4.3 years experience from Unacademy. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0020350",
+        "match_percentage": 81,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 80,
+        "behavioral_fit": 68,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "5.8 years experience aligns with ideal band.",
+            "Experience in product company (Zoho).",
+            "Good recruiter engagement.",
+            "Short notice period."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "AI Engineer with 5.8 years experience from Zoho. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0065878",
+        "match_percentage": 76,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 80,
+        "behavioral_fit": 54,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "7.8 years experience aligns with ideal band.",
+            "Good recruiter engagement.",
+            "Short notice period."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "Senior Data Scientist with 7.8 years experience from Niramai. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0006557",
+        "match_percentage": 74,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 80,
+        "behavioral_fit": 59,
+        "availability_fit": 80,
+        "risk_score": 20,
+        "strengths": [
+            "7.9 years experience aligns with ideal band.",
+            "Experience in product company (Paytm).",
+            "Good recruiter engagement."
+        ],
+        "risks": [
+            "Long notice period.",
+            "No public GitHub activity."
+        ],
+        "executive_summary": "NLP Engineer with 7.9 years experience from Paytm. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0039521",
+        "match_percentage": 71,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 70,
+        "behavioral_fit": 61,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "Good recruiter engagement.",
+            "Short notice period."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "Search Engineer with 3.0 years experience from Salesforce. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "Problem Solving",
+            "Technical Depth"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0099806",
+        "match_percentage": 88,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 87,
+        "behavioral_fit": 80,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "Excellent recruiter response rate.",
+            "Short notice period.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "AI Engineer with 4.6 years experience from Mad Street Den. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0046525",
+        "match_percentage": 87,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 87,
+        "behavioral_fit": 84,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "6.1 years experience aligns with ideal band.",
+            "Excellent recruiter response rate."
+        ],
+        "risks": [],
+        "executive_summary": "Senior Machine Learning Engineer with 6.1 years experience from Genpact AI. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0037566",
+        "match_percentage": 87,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 95,
+        "behavioral_fit": 67,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "6.9 years experience aligns with ideal band.",
+            "Good recruiter engagement.",
+            "Short notice period.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Machine Learning Engineer with 6.9 years experience from LinkedIn. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0095528",
+        "match_percentage": 79,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 80,
+        "behavioral_fit": 69,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "5.3 years experience aligns with ideal band.",
+            "Experience in product company (Netflix).",
+            "Good recruiter engagement."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "Senior Data Scientist with 5.3 years experience from Netflix. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0036863",
+        "match_percentage": 74,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 70,
+        "behavioral_fit": 70,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "Good recruiter engagement."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "Senior Data Scientist with 4.3 years experience from upGrad. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "Problem Solving",
+            "Technical Depth"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0049978",
+        "match_percentage": 85,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 94,
+        "behavioral_fit": 68,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "6.6 years experience aligns with ideal band.",
+            "Experience in product company (Sarvam AI).",
+            "Excellent recruiter response rate.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Senior Software Engineer (ML) with 6.6 years experience from Sarvam AI. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0007412",
+        "match_percentage": 84,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 87,
+        "behavioral_fit": 82,
+        "availability_fit": 80,
+        "risk_score": 20,
+        "strengths": [
+            "7.4 years experience aligns with ideal band.",
+            "Experience in product company (Zoho).",
+            "Excellent recruiter response rate."
+        ],
+        "risks": [
+            "Long notice period."
+        ],
+        "executive_summary": "Applied ML Engineer with 7.4 years experience from Zoho. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0081686",
+        "match_percentage": 87,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 89,
+        "behavioral_fit": 88,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "6.0 years experience aligns with ideal band.",
+            "Experience in product company (Netflix).",
+            "Excellent recruiter response rate."
+        ],
+        "risks": [],
+        "executive_summary": "Search Engineer with 6.0 years experience from Netflix. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0042506",
+        "match_percentage": 81,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 83,
+        "behavioral_fit": 65,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "Good recruiter engagement.",
+            "Short notice period.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Search Engineer with 4.2 years experience from Verloop.io. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0095884",
+        "match_percentage": 70,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 70,
+        "behavioral_fit": 62,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "Experience in product company (Sarvam AI)."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "Senior Software Engineer (ML) with 3.8 years experience from Sarvam AI. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "Problem Solving",
+            "Technical Depth"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0087364",
+        "match_percentage": 75,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 74,
+        "behavioral_fit": 66,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "Good recruiter engagement.",
+            "Short notice period."
+        ],
+        "risks": [],
+        "executive_summary": "Recommendation Systems Engineer with 4.9 years experience from Glance. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "Problem Solving",
+            "Technical Depth"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0060835",
+        "match_percentage": 78,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 96,
+        "behavioral_fit": 46,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "6.6 years experience aligns with ideal band.",
+            "Experience in product company (Sarvam AI).",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Senior Software Engineer (ML) with 6.6 years experience from Sarvam AI. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0076904",
+        "match_percentage": 70,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 70,
+        "behavioral_fit": 64,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "Good recruiter engagement."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "Senior Data Scientist with 4.2 years experience from Nykaa. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "Problem Solving",
+            "Technical Depth"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0008218",
+        "match_percentage": 76,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 80,
+        "behavioral_fit": 66,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "7.0 years experience aligns with ideal band."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "Senior Software Engineer (ML) with 7.0 years experience from Aganitha. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0020708",
+        "match_percentage": 89,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 87,
+        "behavioral_fit": 86,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "Excellent recruiter response rate.",
+            "Short notice period.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Search Engineer with 4.2 years experience from PolicyBazaar. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0037944",
+        "match_percentage": 79,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 87,
+        "behavioral_fit": 52,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "Good recruiter engagement.",
+            "Short notice period.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Senior Data Scientist with 4.9 years experience from Vedantu. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0050454",
+        "match_percentage": 82,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 80,
+        "behavioral_fit": 74,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "6.8 years experience aligns with ideal band.",
+            "Excellent recruiter response rate.",
+            "Short notice period."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "AI Engineer with 6.8 years experience from Rephrase.ai. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0089546",
+        "match_percentage": 73,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 79,
+        "behavioral_fit": 65,
+        "availability_fit": 70,
+        "risk_score": 0,
+        "strengths": [
+            "Good recruiter engagement."
+        ],
+        "risks": [],
+        "executive_summary": "Machine Learning Engineer with 4.8 years experience from Wysa. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "Problem Solving",
+            "Technical Depth"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0018549",
+        "match_percentage": 85,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 91,
+        "behavioral_fit": 70,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "6.8 years experience aligns with ideal band.",
+            "Excellent recruiter response rate.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Recommendation Systems Engineer with 6.8 years experience from Uber. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0053605",
+        "match_percentage": 88,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 80,
+        "behavioral_fit": 92,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "6.9 years experience aligns with ideal band.",
+            "Excellent recruiter response rate.",
+            "Short notice period."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "Senior Software Engineer (ML) with 6.9 years experience from Verloop.io. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0060054",
+        "match_percentage": 83,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 80,
+        "behavioral_fit": 82,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "6.4 years experience aligns with ideal band.",
+            "Excellent recruiter response rate.",
+            "Short notice period."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "AI Engineer with 6.4 years experience from Mad Street Den. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0086151",
+        "match_percentage": 78,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 90,
+        "behavioral_fit": 56,
+        "availability_fit": 80,
+        "risk_score": 20,
+        "strengths": [
+            "7.7 years experience aligns with ideal band.",
+            "Good recruiter engagement.",
+            "Strong GitHub activity."
+        ],
+        "risks": [
+            "Long notice period."
+        ],
+        "executive_summary": "Recommendation Systems Engineer with 7.7 years experience from Wysa. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0049538",
+        "match_percentage": 88,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 98,
+        "behavioral_fit": 70,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "5.8 years experience aligns with ideal band.",
+            "Excellent recruiter response rate.",
+            "Short notice period.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Applied ML Engineer with 5.8 years experience from Saarthi.ai. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0040117",
+        "match_percentage": 81,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 80,
+        "behavioral_fit": 69,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "6.5 years experience aligns with ideal band.",
+            "Good recruiter engagement.",
+            "Short notice period."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "Recommendation Systems Engineer with 6.5 years experience from PhonePe. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0023092",
+        "match_percentage": 74,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 80,
+        "behavioral_fit": 66,
+        "availability_fit": 70,
+        "risk_score": 20,
+        "strengths": [
+            "6.3 years experience aligns with ideal band.",
+            "Good recruiter engagement."
+        ],
+        "risks": [
+            "Long notice period.",
+            "No public GitHub activity."
+        ],
+        "executive_summary": "Mechanical Engineer with 6.3 years experience from TCS. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0009024",
+        "match_percentage": 79,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 87,
+        "behavioral_fit": 53,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "5.2 years experience aligns with ideal band.",
+            "Experience in product company (Google).",
+            "Good recruiter engagement.",
+            "Short notice period."
+        ],
+        "risks": [],
+        "executive_summary": "Search Engineer with 5.2 years experience from Google. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0084819",
+        "match_percentage": 80,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 81,
+        "behavioral_fit": 78,
+        "availability_fit": 80,
+        "risk_score": 20,
+        "strengths": [
+            "Excellent recruiter response rate.",
+            "Strong GitHub activity."
+        ],
+        "risks": [
+            "Long notice period."
+        ],
+        "executive_summary": "Search Engineer with 4.5 years experience from Dream11. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0041610",
+        "match_percentage": 85,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 90,
+        "behavioral_fit": 66,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "6.7 years experience aligns with ideal band.",
+            "Experience in product company (Zoho).",
+            "Good recruiter engagement.",
+            "Short notice period.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Recommendation Systems Engineer with 6.7 years experience from Zoho. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0096172",
+        "match_percentage": 80,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 93,
+        "behavioral_fit": 58,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "5.2 years experience aligns with ideal band.",
+            "Good recruiter engagement.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "NLP Engineer with 5.2 years experience from Krutrim. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0051615",
+        "match_percentage": 89,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 89,
+        "behavioral_fit": 88,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "Excellent recruiter response rate.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Search Engineer with 4.6 years experience from Meta. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0045250",
+        "match_percentage": 79,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 80,
+        "behavioral_fit": 70,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "6.6 years experience aligns with ideal band.",
+            "Excellent recruiter response rate.",
+            "Short notice period."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "Applied ML Engineer with 6.6 years experience from Rephrase.ai. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0005260",
+        "match_percentage": 80,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 80,
+        "behavioral_fit": 80,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "5.2 years experience aligns with ideal band.",
+            "Experience in product company (Netflix).",
+            "Excellent recruiter response rate."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "Senior NLP Engineer with 5.2 years experience from Netflix. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0057219",
+        "match_percentage": 71,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 70,
+        "behavioral_fit": 62,
+        "availability_fit": 90,
+        "risk_score": 0,
+        "strengths": [
+            "Good recruiter engagement."
+        ],
+        "risks": [
+            "No public GitHub activity."
+        ],
+        "executive_summary": "Mechanical Engineer with 12.4 years experience from Infosys. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "Problem Solving",
+            "Technical Depth"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0030827",
+        "match_percentage": 78,
+        "hiring_recommendation": "Consider",
+        "confidence_level": "Moderate",
+        "technical_fit": 90,
+        "behavioral_fit": 56,
+        "availability_fit": 80,
+        "risk_score": 20,
+        "strengths": [
+            "5.4 years experience aligns with ideal band.",
+            "Experience in product company (Freshworks).",
+            "Good recruiter engagement.",
+            "Strong GitHub activity."
+        ],
+        "risks": [
+            "Long notice period."
+        ],
+        "executive_summary": "Senior Data Scientist with 5.4 years experience from Freshworks. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0094056",
+        "match_percentage": 86,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 93,
+        "behavioral_fit": 86,
+        "availability_fit": 70,
+        "risk_score": 20,
+        "strengths": [
+            "5.9 years experience aligns with ideal band.",
+            "Excellent recruiter response rate.",
+            "Strong GitHub activity."
+        ],
+        "risks": [
+            "Long notice period."
+        ],
+        "executive_summary": "NLP Engineer with 5.9 years experience from Rephrase.ai. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0081846",
+        "match_percentage": 88,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 87,
+        "behavioral_fit": 84,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "6.7 years experience aligns with ideal band.",
+            "Experience in product company (Razorpay).",
+            "Excellent recruiter response rate.",
+            "Short notice period."
+        ],
+        "risks": [],
+        "executive_summary": "Lead AI Engineer with 6.7 years experience from Razorpay. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "ML Fundamentals",
+            "Python",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0039383",
+        "match_percentage": 88,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 97,
+        "behavioral_fit": 79,
+        "availability_fit": 80,
+        "risk_score": 0,
+        "strengths": [
+            "7.1 years experience aligns with ideal band.",
+            "Experience in product company (Meesho).",
+            "Good recruiter engagement.",
+            "Strong GitHub activity."
+        ],
+        "risks": [],
+        "executive_summary": "Applied ML Engineer with 7.1 years experience from Meesho. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "System Design",
+            "Retrieval Systems",
+            "Production ML"
+        ]
+    },
+    {
+        "candidate_id": "CAND_0087744",
+        "match_percentage": 82,
+        "hiring_recommendation": "Hire",
+        "confidence_level": "High",
+        "technical_fit": 76,
+        "behavioral_fit": 82,
+        "availability_fit": 100,
+        "risk_score": 0,
+        "strengths": [
+            "Excellent recruiter response rate.",
+            "Short notice period."
+        ],
+        "risks": [],
+        "executive_summary": "Senior Software Engineer (ML) with 3.9 years experience from Niramai. Strong fit for AI and retrieval-focused roles.",
+        "recommended_interview_focus": [
+            "Problem Solving",
+            "Technical Depth"
+        ]
+    }
+]
