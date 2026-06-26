@@ -18,6 +18,7 @@ Combining:
 ![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-orange?style=for-the-badge)
 ![BM25](https://img.shields.io/badge/BM25-Retrieval-success?style=for-the-badge)
 ![CrossEncoder](https://img.shields.io/badge/Cross_Encoder-ReRanking-red?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 </div>
 
@@ -36,6 +37,14 @@ Traditional keyword search often misses:
 - Explainability
 
 This project solves that by building an **AI-powered Candidate Intelligence Platform** that combines retrieval systems and explainable scoring.
+
+---
+
+# 💡 Why This Project?
+
+Traditional applicant tracking systems rely heavily on keyword matching, making it difficult to identify high-potential candidates with transferable skills or contextual relevance.
+
+This project combines hybrid retrieval, explainable AI, and conversational AI to provide recruiters with a faster, more transparent, and intelligent hiring workflow.
 
 ---
 
@@ -63,7 +72,50 @@ Explainability Engine
 Executive Dashboard
         ↓
 Hiring Recommendation
+        ↓
+User
+      ↓
+AI Recruiter Agent
+      ↓
+Gemini
+      ↓
+Intent Parser
+      ↓
+Tool Executor
+      ↓
+Candidate Database
+      ↓
+Streamlit Dashboard
 ```
+---
+
+# 🧠 AI Pipeline
+
+User Query
+
+↓
+
+Gemini Intent Parsing
+
+↓
+
+Tool Selection
+
+↓
+
+Candidate Retrieval
+
+↓
+
+Ranking & Filtering
+
+↓
+
+Explainable Recommendation
+
+↓
+
+Streamlit Visualization
 
 ---
 
@@ -127,6 +179,32 @@ Interactive dashboard with:
 ### Confidence Analysis
 
 ### Top Candidates Leaderboard
+
+---
+
+# 🤖 AI Recruiter Agent
+
+Powered by Google Gemini.
+
+Recruiters can interact naturally with the platform using conversational language.
+
+Examples:
+
+• Show top candidates
+
+• Find Backend Engineers
+
+• Find ML Engineers
+
+• Show strong hires with low risk
+
+• Why is CAND_0018499 recommended?
+
+• Summarize CAND_0018499
+
+• Compare CAND_0018499 and CAND_0061265
+
+The AI Agent understands recruiter intent, invokes the appropriate retrieval tools, and generates explainable hiring recommendations.
 
 ---
 
@@ -199,13 +277,28 @@ Interactive dashboard with:
 ```text
 redrob-ai-hackathon
 │
-├── app
-│     ├── Home.py
-│     ├── pages
-│     │      ├── 1_Top_Candidates.py
-│     │      ├── 2_Candidate_Details.py
-│     │      ├── 3_Candidate_Comparison.py
-│     │      └── 4_Analytics.py
+|── app
+|     │
+|     ├── Home.py
+|     │
+|     ├── pages
+|     │     ├── 1_Top_Candidates.py
+|     │     ├── 2_Candidate_Details.py
+|     │     ├── 3_Candidate_Comparison.py
+|     │     ├── 4_Analytics.py
+|     │     └── 5_AI_Recruiter.py
+|     │
+|     ├── agent
+|     │     ├── gemini_agent.py
+|     │     ├── recruiter_agent.py
+|     │     ├── executor.py
+|     │     ├── intent_parser.py
+|     │     ├── prompts.py
+|     │     └── tools.py
+|     │
+|     ├── utils
+|     ├── data
+|     ├── assets
 │
 ├── data
 ├── reports
@@ -257,6 +350,18 @@ redrob-ai-hackathon
 - Sentence Transformers
 - Scikit-Learn
 
+- Google Gemini API
+
+- python-dotenv
+
+- FAISS
+
+- Rank-BM25
+
+- Cross Encoder
+
+- Sentence Transformers
+
 ---
 
 # 🚀 Installation
@@ -286,6 +391,15 @@ pip install -r requirements.txt
 ```bash
 streamlit run app/Home.py
 ```
+## 🌐 Live Demo
+
+**Streamlit App**
+
+https://redrob-hack-recruiter.streamlit.app/
+
+**GitHub Repository**
+
+https://github.com/Jeet-Lohar-29/redrob-ai-hackathon
 
 ---
 
@@ -303,6 +417,22 @@ The system generates:
 
 ---
 
+# 📊 Performance
+
+✔ 100,000 candidate corpus
+
+✔ Hybrid Retrieval (BM25 + Dense)
+
+✔ Cross Encoder Re-ranking
+
+✔ Explainable AI Reports
+
+✔ Real-time Gemini Recruiter Agent
+
+✔ Streamlit Cloud Deployment
+
+---
+
 # 🔮 Future Improvements
 
 - Resume PDF Parsing
@@ -315,17 +445,33 @@ The system generates:
 
 ---
 
-# 👨‍💻 Author
+# 📄 License
 
-### Jeet Lohar
+Licensed under the MIT License.
 
-B.Tech CSE | Data Science Minor
+---
 
-AI • Retrieval Systems • Explainable AI • ML
+## 👨‍💻 Author
 
-GitHub:
+**Jeet Lohar**
 
-https://github.com/Jeet-Lohar-29
+B.Tech Computer Science & Engineering
+
+Minor in Data Science
+
+GitHub: https://github.com/Jeet-Lohar-29
+
+LinkedIn: https://www.linkedin.com/in/jeet-lohar
+
+---
+
+## 🙏 Acknowledgements
+
+- Redrob AI Hackathon
+- Hack2Skill
+- Google Gemini
+- Sentence Transformers
+- Streamlit
 
 ---
 
