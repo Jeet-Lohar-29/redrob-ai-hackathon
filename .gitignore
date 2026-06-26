@@ -25,3 +25,5 @@ backups/
 
 # Ignore only the huge dataset
 data/candidates.jsonl
+
+.env
