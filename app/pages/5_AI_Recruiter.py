@@ -5,9 +5,10 @@ from pathlib import Path
 
 from agent.recruiter_agent import recruiter_agent
 
-DATA_PATH = Path(__file__).parent.parent / "data" / "dashboard_reports.json"
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_PATH = BASE_DIR / "data" / "dashboard_reports.json"
 
-with open(DATA_PATH, "r") as f:
+with open(DATA_PATH, "r", encoding="utf-8") as f:
     reports = json.load(f)
 
 df = pd.DataFrame(reports)

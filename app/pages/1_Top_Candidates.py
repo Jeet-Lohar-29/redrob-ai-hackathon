@@ -1,6 +1,10 @@
 import streamlit as st
 import json
 import pandas as pd
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_PATH = BASE_DIR / "data" / "dashboard_reports.json"
 
 st.set_page_config(
     page_title="Top Candidates",
@@ -11,8 +15,8 @@ st.set_page_config(
 st.title("🏆 Top Candidates Leaderboard")
 
 # Load reports
-with open("data/dashboard_reports.json","r") as f:
-    candidates=json.load(f)
+with open(DATA_PATH, "r", encoding="utf-8") as f:
+    candidates = json.load(f)
 
 ####################################################
 # TOP 3 CARDS
