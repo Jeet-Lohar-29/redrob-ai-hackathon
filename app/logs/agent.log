@@ -1,0 +1,137 @@
+2026-06-25 11:23:06,846 INFO redrob_ai_recruiter intent_detected intent=unknown query=Show top candidates latency=5.124
+2026-06-25 11:23:06,846 INFO redrob_ai_recruiter tool_executed tool=unknown result_type=text latency=0.000 details={'args': {'intent': 'unknown', 'query': 'Show top candidates'}}
+2026-06-25 11:23:06,846 INFO redrob_ai_recruiter tool_executed tool=planner result_type=text latency=0.000 details={'plan': [{'tool': 'unknown', 'args': {'intent': 'unknown', 'query': 'Show top candidates'}}]}
+2026-06-25 11:31:44,882 INFO redrob_ai_recruiter intent_detected intent=unknown query=Show top candidates latency=4.502
+2026-06-25 11:31:44,882 INFO redrob_ai_recruiter tool_executed tool=unknown result_type=text latency=0.000 details={'args': {'intent': 'unknown', 'query': 'Show top candidates'}}
+2026-06-25 11:31:44,882 INFO redrob_ai_recruiter tool_executed tool=planner result_type=text latency=0.000 details={'plan': [{'tool': 'unknown', 'args': {'intent': 'unknown', 'query': 'Show top candidates'}}]}
+2026-06-25 11:42:46,010 ERROR redrob_ai_recruiter error message=tool_execution_failed context={'tool': 'top_candidates', 'error': "'match_percentage'", 'args': {'intent': 'top_candidates', 'query': 'Show top candidates'}}
+2026-06-25 11:42:46,011 ERROR redrob_ai_recruiter error message=tool_execution_failed context={'tool': 'strong_hires', 'error': "'hiring_recommendation'", 'args': {'intent': 'strong_hires', 'query': 'Show strong hires'}}
+2026-06-25 11:42:46,011 ERROR redrob_ai_recruiter error message=tool_execution_failed context={'tool': 'low_risk', 'error': "'risk_score'", 'args': {'intent': 'low_risk', 'query': 'Show low risk candidates'}}
+2026-06-25 11:42:46,014 ERROR redrob_ai_recruiter error message=tool_execution_failed context={'tool': 'search_by_role', 'error': "'match_percentage'", 'args': {'intent': 'search_by_role', 'role': 'AI Engineer', 'query': 'Find AI Engineers'}}
+2026-06-25 11:42:46,015 ERROR redrob_ai_recruiter error message=tool_execution_failed context={'tool': 'search_by_role', 'error': "'match_percentage'", 'args': {'intent': 'search_by_role', 'role': 'Backend Engineer', 'query': 'Find Backend Engineers'}}
+2026-06-25 11:42:46,018 INFO redrob_ai_recruiter tool_executed tool=compare_candidates result_type=object latency=0.003 details={'args': {'intent': 'compare_candidates', 'candidate_1': 'CAND_0018499', 'candidate_2': 'CAND_0061265', 'query': 'Compare CAND_0018499 and CAND_0061265'}}
+2026-06-25 11:42:46,019 INFO redrob_ai_recruiter tool_executed tool=explain_candidate result_type=object latency=0.000 details={'args': {'intent': 'explain_candidate', 'candidate_id': 'CAND_0018499', 'query': 'Why is CAND_0018499 recommended?'}}
+2026-06-25 11:42:46,019 INFO redrob_ai_recruiter tool_executed tool=hiring_report result_type=object latency=0.000 details={'args': {'intent': 'hiring_report', 'candidate_id': 'CAND_0018499', 'query': 'Generate hiring report for CAND_0018499'}}
+2026-06-25 11:42:46,019 ERROR redrob_ai_recruiter error message=tool_execution_failed context={'tool': 'recommend_best_candidate', 'error': "'match_percentage'", 'args': {'intent': 'recommend_best_candidate', 'role': 'AI Engineer', 'query': 'Recommend the best AI Engineer'}}
+2026-06-25 11:43:19,966 INFO redrob_ai_recruiter tool_executed tool=top_candidates result_type=dataframe latency=0.006 details={'args': {'intent': 'top_candidates', 'query': 'Show top candidates'}}
+2026-06-25 11:43:19,968 INFO redrob_ai_recruiter tool_executed tool=strong_hires result_type=dataframe latency=0.002 details={'args': {'intent': 'strong_hires', 'query': 'Show strong hires'}}
+2026-06-25 11:43:19,971 INFO redrob_ai_recruiter tool_executed tool=low_risk result_type=dataframe latency=0.003 details={'args': {'intent': 'low_risk', 'query': 'Show low risk candidates'}}
+2026-06-25 11:43:20,016 INFO redrob_ai_recruiter tool_executed tool=search_by_role result_type=dataframe latency=0.045 details={'args': {'intent': 'search_by_role', 'role': 'AI Engineer', 'query': 'Find AI Engineers'}}
+2026-06-25 11:43:20,021 INFO redrob_ai_recruiter tool_executed tool=search_by_role result_type=dataframe latency=0.005 details={'args': {'intent': 'search_by_role', 'role': 'Backend Engineer', 'query': 'Find Backend Engineers'}}
+2026-06-25 11:43:20,023 INFO redrob_ai_recruiter tool_executed tool=compare_candidates result_type=object latency=0.002 details={'args': {'intent': 'compare_candidates', 'candidate_1': 'CAND_0018499', 'candidate_2': 'CAND_0061265', 'query': 'Compare CAND_0018499 and CAND_0061265'}}
+2026-06-25 11:43:20,023 INFO redrob_ai_recruiter tool_executed tool=explain_candidate result_type=object latency=0.000 details={'args': {'intent': 'explain_candidate', 'candidate_id': 'CAND_0018499', 'query': 'Why is CAND_0018499 recommended?'}}
+2026-06-25 11:43:20,024 INFO redrob_ai_recruiter tool_executed tool=hiring_report result_type=object latency=0.001 details={'args': {'intent': 'hiring_report', 'candidate_id': 'CAND_0018499', 'query': 'Generate hiring report for CAND_0018499'}}
+2026-06-25 11:43:20,036 INFO redrob_ai_recruiter tool_executed tool=recommend_best_candidate result_type=dataframe latency=0.012 details={'args': {'intent': 'recommend_best_candidate', 'role': 'AI Engineer', 'query': 'Recommend the best AI Engineer'}}
+2026-06-25 11:43:43,265 INFO redrob_ai_recruiter tool_executed tool=top_candidates result_type=dataframe latency=0.003 details={'args': {'intent': 'top_candidates', 'query': 'Show top candidates'}}
+2026-06-25 11:43:43,267 INFO redrob_ai_recruiter tool_executed tool=strong_hires result_type=dataframe latency=0.001 details={'args': {'intent': 'strong_hires', 'query': 'Show strong hires'}}
+2026-06-25 11:43:43,268 INFO redrob_ai_recruiter tool_executed tool=low_risk result_type=dataframe latency=0.001 details={'args': {'intent': 'low_risk', 'query': 'Show low risk candidates'}}
+2026-06-25 11:43:43,309 INFO redrob_ai_recruiter tool_executed tool=search_by_role result_type=dataframe latency=0.040 details={'args': {'intent': 'search_by_role', 'role': 'AI Engineer', 'query': 'Find AI Engineers'}}
+2026-06-25 11:43:43,311 INFO redrob_ai_recruiter tool_executed tool=search_by_role result_type=dataframe latency=0.002 details={'args': {'intent': 'search_by_role', 'role': 'Backend Engineer', 'query': 'Find Backend Engineers'}}
+2026-06-25 11:43:43,311 INFO redrob_ai_recruiter tool_executed tool=compare_candidates result_type=object latency=0.000 details={'args': {'intent': 'compare_candidates', 'candidate_1': 'CAND_0018499', 'candidate_2': 'CAND_0061265', 'query': 'Compare CAND_0018499 and CAND_0061265'}}
+2026-06-25 11:43:43,311 INFO redrob_ai_recruiter tool_executed tool=explain_candidate result_type=object latency=0.000 details={'args': {'intent': 'explain_candidate', 'candidate_id': 'CAND_0018499', 'query': 'Why is CAND_0018499 recommended?'}}
+2026-06-25 11:43:43,311 INFO redrob_ai_recruiter tool_executed tool=hiring_report result_type=object latency=0.000 details={'args': {'intent': 'hiring_report', 'candidate_id': 'CAND_0018499', 'query': 'Generate hiring report for CAND_0018499'}}
+2026-06-25 11:43:43,321 INFO redrob_ai_recruiter tool_executed tool=recommend_best_candidate result_type=dataframe latency=0.010 details={'args': {'intent': 'recommend_best_candidate', 'role': 'AI Engineer', 'query': 'Recommend the best AI Engineer'}}
+2026-06-25 11:47:53,761 INFO redrob_ai_recruiter intent_detected intent=top_candidates query=Show top candidates latency=0.008
+2026-06-25 11:47:53,776 INFO redrob_ai_recruiter tool_executed tool=top_candidates result_type=dataframe latency=0.015 details={'args': {'intent': 'top_candidates', 'query': 'Show top candidates'}}
+2026-06-25 11:47:53,777 INFO redrob_ai_recruiter tool_executed tool=planner result_type=dataframe latency=0.016 details={'plan': [{'tool': 'top_candidates', 'args': {'intent': 'top_candidates', 'query': 'Show top candidates'}}]}
+2026-06-25 11:49:02,359 INFO redrob_ai_recruiter intent_detected intent=search_by_role query=Find Backend Engineers latency=0.000
+2026-06-25 11:49:02,371 INFO redrob_ai_recruiter tool_executed tool=search_by_role result_type=dataframe latency=0.010 details={'args': {'intent': 'search_by_role', 'role': 'Backend Engineer', 'query': 'Find Backend Engineers'}}
+2026-06-25 11:49:02,372 INFO redrob_ai_recruiter tool_executed tool=planner result_type=dataframe latency=0.012 details={'plan': [{'tool': 'search_by_role', 'args': {'intent': 'search_by_role', 'role': 'Backend Engineer', 'query': 'Find Backend Engineers'}}]}
+2026-06-25 11:49:38,161 INFO redrob_ai_recruiter intent_detected intent=search_by_role query=Show top AI Engineers latency=0.000
+2026-06-25 11:49:38,168 INFO redrob_ai_recruiter tool_executed tool=search_by_role result_type=dataframe latency=0.007 details={'args': {'intent': 'search_by_role', 'role': 'AI Engineer', 'query': 'Show top AI Engineers'}}
+2026-06-25 11:49:38,170 INFO redrob_ai_recruiter tool_executed tool=planner result_type=dataframe latency=0.009 details={'plan': [{'tool': 'search_by_role', 'args': {'intent': 'search_by_role', 'role': 'AI Engineer', 'query': 'Show top AI Engineers'}}]}
+2026-06-26 12:24:25,120 INFO redrob_ai_recruiter intent_detected intent=top_candidates query=Show top candidates latency=0.000
+2026-06-26 12:24:25,127 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.006 details={'intent': 'top_candidates', 'query': 'Show top candidates'}
+2026-06-26 12:24:40,236 INFO redrob_ai_recruiter intent_detected intent=explain_candidate query=Why is CAND_0018499 recommended? latency=0.000
+2026-06-26 12:24:40,236 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.000 details={'intent': 'explain_candidate', 'query': 'Why is CAND_0018499 recommended?'}
+2026-06-26 12:24:51,500 INFO redrob_ai_recruiter intent_detected intent=candidate_summary query=Summarize CAND_0018499 latency=2.096
+2026-06-26 12:24:51,509 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.008 details={'intent': 'candidate_summary', 'query': 'Summarize CAND_0018499'}
+2026-06-26 13:39:26,796 INFO redrob_ai_recruiter intent_detected intent=candidate_explanation query=Why is CAND_0018499 recommended? latency=0.000
+2026-06-26 13:39:26,841 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.046 details={'intent': 'candidate_explanation', 'query': 'Why is CAND_0018499 recommended?'}
+2026-06-26 13:57:00,691 INFO redrob_ai_recruiter intent_detected intent=candidate_explanation query=Why is CAND_0018499 recommended? latency=0.000
+2026-06-26 13:57:00,696 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.005 details={'intent': 'candidate_explanation', 'query': 'Why is CAND_0018499 recommended?'}
+2026-06-26 13:57:32,023 INFO redrob_ai_recruiter intent_detected intent=candidate_explanation query=Why is CAND_0000001 recommended? latency=0.000
+2026-06-26 13:57:32,027 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.004 details={'intent': 'candidate_explanation', 'query': 'Why is CAND_0000001 recommended?'}
+2026-06-26 13:57:44,555 INFO redrob_ai_recruiter intent_detected intent=top_candidates query=Show top candidates latency=0.000
+2026-06-26 13:57:44,555 ERROR redrob_ai_recruiter error message=tool_execution_failed context={'intent': 'top_candidates', 'tool': 'top_candidates', 'error': "'match_percentage'", 'args': {'intent': 'top_candidates', 'query': 'Show top candidates'}}
+2026-06-26 13:57:44,556 INFO redrob_ai_recruiter tool_executed tool=executor result_type=error latency=0.001 details={'intent': 'top_candidates', 'query': 'Show top candidates'}
+2026-06-26 13:57:55,322 INFO redrob_ai_recruiter intent_detected intent=top_candidates query=Show top candidates latency=0.000
+2026-06-26 13:57:55,323 ERROR redrob_ai_recruiter error message=tool_execution_failed context={'intent': 'top_candidates', 'tool': 'top_candidates', 'error': "'match_percentage'", 'args': {'intent': 'top_candidates', 'query': 'Show top candidates'}}
+2026-06-26 13:57:55,323 INFO redrob_ai_recruiter tool_executed tool=executor result_type=error latency=0.000 details={'intent': 'top_candidates', 'query': 'Show top candidates'}
+2026-06-26 13:57:55,323 INFO redrob_ai_recruiter intent_detected intent=unknown query=Summarize CAND_0000002 latency=0.000
+2026-06-26 13:57:55,324 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.000 details={'intent': 'unknown', 'query': 'Summarize CAND_0000002'}
+2026-06-26 13:57:55,324 INFO redrob_ai_recruiter intent_detected intent=candidate_explanation query=Why is CAND_0000002 recommended? latency=0.000
+2026-06-26 13:57:55,325 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.001 details={'intent': 'candidate_explanation', 'query': 'Why is CAND_0000002 recommended?'}
+2026-06-26 13:57:55,327 INFO redrob_ai_recruiter intent_detected intent=compare_candidates query=Compare CAND_0000001 and CAND_0000002 latency=0.000
+2026-06-26 13:57:55,329 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.001 details={'intent': 'compare_candidates', 'query': 'Compare CAND_0000001 and CAND_0000002'}
+2026-06-26 13:57:55,329 INFO redrob_ai_recruiter intent_detected intent=low_risk query=Show low risk candidates latency=0.000
+2026-06-26 13:57:55,329 ERROR redrob_ai_recruiter error message=tool_execution_failed context={'intent': 'low_risk', 'tool': 'low_risk', 'error': "'risk_score'", 'args': {'intent': 'low_risk', 'query': 'Show low risk candidates'}}
+2026-06-26 13:57:55,329 INFO redrob_ai_recruiter tool_executed tool=executor result_type=error latency=0.000 details={'intent': 'low_risk', 'query': 'Show low risk candidates'}
+2026-06-26 13:58:11,006 ERROR redrob_ai_recruiter error message=tool_execution_failed context={'intent': 'top_candidates', 'tool': 'top_candidates', 'error': "'match_percentage'", 'args': {'intent': 'top_candidates', 'query': 'Show top candidates'}}
+2026-06-26 13:58:11,007 INFO redrob_ai_recruiter intent_detected intent=top_candidates query=Show top candidates latency=0.000
+2026-06-26 13:58:11,007 ERROR redrob_ai_recruiter error message=tool_execution_failed context={'intent': 'top_candidates', 'tool': 'top_candidates', 'error': "'match_percentage'", 'args': {'intent': 'top_candidates', 'query': 'Show top candidates'}}
+2026-06-26 13:58:11,007 INFO redrob_ai_recruiter tool_executed tool=executor result_type=error latency=0.000 details={'intent': 'top_candidates', 'query': 'Show top candidates'}
+2026-06-26 13:59:49,900 INFO redrob_ai_recruiter intent_detected intent=top_candidates query=Show top candidates latency=0.000
+2026-06-26 13:59:49,902 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.002 details={'intent': 'top_candidates', 'query': 'Show top candidates'}
+2026-06-26 13:59:49,903 INFO redrob_ai_recruiter intent_detected intent=candidate_summary query=Summarize CAND_0000002 latency=0.000
+2026-06-26 13:59:49,904 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.001 details={'intent': 'candidate_summary', 'query': 'Summarize CAND_0000002'}
+2026-06-26 13:59:49,904 INFO redrob_ai_recruiter intent_detected intent=candidate_explanation query=Why is CAND_0000002 recommended? latency=0.000
+2026-06-26 13:59:49,904 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.000 details={'intent': 'candidate_explanation', 'query': 'Why is CAND_0000002 recommended?'}
+2026-06-26 13:59:49,905 INFO redrob_ai_recruiter intent_detected intent=compare_candidates query=Compare CAND_0000001 and CAND_0000002 latency=0.000
+2026-06-26 13:59:49,906 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.001 details={'intent': 'compare_candidates', 'query': 'Compare CAND_0000001 and CAND_0000002'}
+2026-06-26 13:59:49,906 INFO redrob_ai_recruiter intent_detected intent=low_risk query=Show low risk candidates latency=0.000
+2026-06-26 13:59:49,906 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.000 details={'intent': 'low_risk', 'query': 'Show low risk candidates'}
+2026-06-26 14:00:33,488 INFO redrob_ai_recruiter intent_detected intent=top_candidates query=Show top candidates latency=0.000
+2026-06-26 14:00:33,488 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.000 details={'intent': 'top_candidates', 'query': 'Show top candidates'}
+2026-06-26 14:00:33,488 INFO redrob_ai_recruiter intent_detected intent=candidate_explanation query=Why is CAND_0018499 recommended? latency=0.000
+2026-06-26 14:00:33,488 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.000 details={'intent': 'candidate_explanation', 'query': 'Why is CAND_0018499 recommended?'}
+2026-06-26 14:00:33,488 INFO redrob_ai_recruiter intent_detected intent=compare_candidates query=Compare CAND_0018499 and CAND_0061265 latency=0.000
+2026-06-26 14:00:33,488 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.000 details={'intent': 'compare_candidates', 'query': 'Compare CAND_0018499 and CAND_0061265'}
+2026-06-26 14:00:33,488 INFO redrob_ai_recruiter intent_detected intent=candidate_summary query=Summarize CAND_0018499 latency=0.000
+2026-06-26 14:00:33,488 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.000 details={'intent': 'candidate_summary', 'query': 'Summarize CAND_0018499'}
+2026-06-26 14:00:33,488 INFO redrob_ai_recruiter intent_detected intent=low_risk query=Show low risk candidates latency=0.000
+2026-06-26 14:00:33,488 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.000 details={'intent': 'low_risk', 'query': 'Show low risk candidates'}
+2026-06-26 14:01:08,041 INFO redrob_ai_recruiter intent_detected intent=candidate_explanation query=Why is CAND_0018499 recommended? latency=0.000
+2026-06-26 14:01:08,044 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.001 details={'intent': 'candidate_explanation', 'query': 'Why is CAND_0018499 recommended?'}
+2026-06-26 14:01:08,044 INFO redrob_ai_recruiter intent_detected intent=candidate_summary query=Summarize CAND_0018499 latency=0.000
+2026-06-26 14:01:08,046 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.001 details={'intent': 'candidate_summary', 'query': 'Summarize CAND_0018499'}
+2026-06-26 14:01:08,046 INFO redrob_ai_recruiter intent_detected intent=compare_candidates query=Compare CAND_0018499 and CAND_0061265 latency=0.000
+2026-06-26 14:01:08,048 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.002 details={'intent': 'compare_candidates', 'query': 'Compare CAND_0018499 and CAND_0061265'}
+2026-06-26 14:01:08,048 INFO redrob_ai_recruiter intent_detected intent=top_candidates query=Show top candidates latency=0.000
+2026-06-26 14:01:08,053 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.005 details={'intent': 'top_candidates', 'query': 'Show top candidates'}
+2026-06-26 14:01:08,053 INFO redrob_ai_recruiter intent_detected intent=low_risk query=Show low risk candidates latency=0.000
+2026-06-26 14:01:08,057 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.004 details={'intent': 'low_risk', 'query': 'Show low risk candidates'}
+2026-06-26 14:01:08,063 INFO redrob_ai_recruiter intent_detected intent=candidate_explanation query=Why is CAND_0018499 recommended? latency=0.000
+2026-06-26 14:01:08,064 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.001 details={'intent': 'candidate_explanation', 'query': 'Why is CAND_0018499 recommended?'}
+2026-06-26 14:01:08,065 INFO redrob_ai_recruiter intent_detected intent=candidate_summary query=Summarize CAND_0018499 latency=0.000
+2026-06-26 14:01:08,066 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.001 details={'intent': 'candidate_summary', 'query': 'Summarize CAND_0018499'}
+2026-06-26 14:01:08,066 INFO redrob_ai_recruiter intent_detected intent=compare_candidates query=Compare CAND_0018499 and CAND_0061265 latency=0.000
+2026-06-26 14:01:08,067 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.001 details={'intent': 'compare_candidates', 'query': 'Compare CAND_0018499 and CAND_0061265'}
+2026-06-26 14:01:08,068 INFO redrob_ai_recruiter intent_detected intent=top_candidates query=Show top candidates latency=0.000
+2026-06-26 14:01:08,069 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.001 details={'intent': 'top_candidates', 'query': 'Show top candidates'}
+2026-06-26 14:01:08,069 INFO redrob_ai_recruiter intent_detected intent=low_risk query=Show low risk candidates latency=0.000
+2026-06-26 14:01:08,070 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.001 details={'intent': 'low_risk', 'query': 'Show low risk candidates'}
+2026-06-26 14:04:48,275 INFO redrob_ai_recruiter intent_detected intent=candidate_explanation query=Why is CAND_0018499 recommended? latency=0.001
+2026-06-26 14:04:48,279 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.004 details={'intent': 'candidate_explanation', 'query': 'Why is CAND_0018499 recommended?'}
+2026-06-26 14:05:31,265 INFO redrob_ai_recruiter intent_detected intent=candidate_explanation query=Why is CAND_0018499 recommended? latency=0.000
+2026-06-26 14:05:31,267 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.001 details={'intent': 'candidate_explanation', 'query': 'Why is CAND_0018499 recommended?'}
+2026-06-26 14:05:31,268 INFO redrob_ai_recruiter intent_detected intent=candidate_summary query=Summarize CAND_0018499 latency=0.000
+2026-06-26 14:05:31,268 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.000 details={'intent': 'candidate_summary', 'query': 'Summarize CAND_0018499'}
+2026-06-26 14:05:31,269 INFO redrob_ai_recruiter intent_detected intent=compare_candidates query=Compare CAND_0018499 and CAND_0061265 latency=0.000
+2026-06-26 14:05:31,270 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.001 details={'intent': 'compare_candidates', 'query': 'Compare CAND_0018499 and CAND_0061265'}
+2026-06-26 14:05:31,270 INFO redrob_ai_recruiter intent_detected intent=top_candidates query=Show top candidates latency=0.000
+2026-06-26 14:05:31,274 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.004 details={'intent': 'top_candidates', 'query': 'Show top candidates'}
+2026-06-26 14:05:31,274 INFO redrob_ai_recruiter intent_detected intent=low_risk query=Show low risk candidates latency=0.000
+2026-06-26 14:05:31,276 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.002 details={'intent': 'low_risk', 'query': 'Show low risk candidates'}
+2026-06-26 14:50:08,177 INFO redrob_ai_recruiter intent_detected intent=top_candidates query=Show top candidates latency=0.001
+2026-06-26 14:50:08,193 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.015 details={'intent': 'top_candidates', 'query': 'Show top candidates'}
+2026-06-26 14:50:14,939 INFO redrob_ai_recruiter intent_detected intent=strong_hires query=Show strong hires with low risk latency=0.000
+2026-06-26 14:50:14,944 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.004 details={'intent': 'strong_hires', 'query': 'Show strong hires with low risk'}
+2026-06-26 14:50:25,005 INFO redrob_ai_recruiter intent_detected intent=candidate_explanation query=Why is CAND_0018499 recommended? latency=0.000
+2026-06-26 14:50:29,525 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=4.521 details={'intent': 'candidate_explanation', 'query': 'Why is CAND_0018499 recommended?'}
+2026-06-26 14:50:39,196 INFO redrob_ai_recruiter intent_detected intent=candidate_summary query=Summarize CAND_0018499 latency=0.000
+2026-06-26 14:50:39,196 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.000 details={'intent': 'candidate_summary', 'query': 'Summarize CAND_0018499'}
+2026-06-26 14:50:47,040 INFO redrob_ai_recruiter intent_detected intent=compare_candidates query=Compare CAND_0018499 and CAND_0061265 latency=0.000
+2026-06-26 14:50:47,042 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=0.001 details={'intent': 'compare_candidates', 'query': 'Compare CAND_0018499 and CAND_0061265'}
+2026-06-26 14:51:03,490 INFO redrob_ai_recruiter intent_detected intent=candidate_explanation query=What are the strengths of CAND_0018499 latency=1.966
+2026-06-26 14:51:05,474 INFO redrob_ai_recruiter tool_executed tool=executor result_type=success latency=1.983 details={'intent': 'candidate_explanation', 'query': 'What are the strengths of CAND_0018499'}
